@@ -1,0 +1,119 @@
+body {
+	font-size: 1.2em;
+	font-family: 'DM Sans', sans-serif;
+	margin: 0px auto;
+	width:200%;
+	text-align:left;
+	background-color: #F9F51D;
+}
+img {
+	max-height:110vh;
+	max-width:80%;
+}
+#content {
+    margin: 0px auto;
+    width: 200%;
+    overflow: hidden;
+}
+.cm {
+    width: calc(30% - 2em);
+    height:auto;
+  	max-width:100%;
+    left:40em;
+  	top:10em;
+  	position:fixed;
+
+}
+.rules {
+  left:73em;
+  top:15em;
+position: fixed;
+
+}
+.dino img {
+  max-height:80vh;
+  max-width:50%;
+  left:8em;
+  top:6em;
+  position:fixed;
+}
+.face {
+  left:36em;
+  top:26em;
+  position:fixed;
+}
+.A {
+  left:7em;
+  top:23em;
+  position:fixed;
+}
+.geye {
+  left:18em;
+  top:33em;
+  position:fixed;
+}
+.lbutton {
+  left:2em;
+  top:50em;
+  position:fixed;
+}
+.C {
+  left:25em;
+  top:65em;
+  position:fixed;
+}
+.rbutton {
+  right:8em;
+  top:2em;
+  position:fixed;
+}
+.B {
+  right:4em;
+  top:22em;
+  position:fixed;
+}
+.beye {
+right:15em;
+  top:35em;
+  position:fixed;
+}
+.D {
+  right:11em;
+  top:43em;
+  position:fixed;
+}
+.frogpc {
+  right:10em;
+  top:58em;
+  position:fixed;
+}
+.m1 {
+  left:33em;
+  top:3em;
+  position:fixed;
+}
+.m2 {
+  right:15em;
+  top:1em;
+  position:fixed;
+}
+.m3 {
+  right:2em;
+  top:46em;
+  position:fixed;
+}
+.gdice {
+  right:12em;
+  top:17em;
+  position:fixed;
+}
+.rdice {
+  left:6em;
+  top:35em;
+  position:fixed;
+}
+.wig {
+  position: absolute;
+  left:21em;
+  top: 1em
+}
